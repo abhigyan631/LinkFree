@@ -1,0 +1,34 @@
+{
+  "name": "Abhinaba Banerjee",
+  "type": "personal",
+  "bio": "Communications Researcher turned Data Analyst. Foodie and loves listening to podcasts",
+    "links": [
+    {
+      "Linkedin": "Follow me on Linkedin",
+      "url": "https://www.linkedin.com/in/obhinaba17/",
+      "icon": "FaLinkedin"
+    },
+      {
+      "Medium": "Follow me on Medium",
+      "url": "https://medium.com/@abhi2652254",
+      "icon": "FaMedium"
+    },
+    {
+      "Showwcase": "Follow me on Showwcase",
+      "url": "https://www.showwcase.com/abhi26522541",
+      "icon": "FaShowwcase"
+    },
+    {
+      "Kaggle": "Follow me on Kaggle",
+      "url": "https://www.kaggle.com/abhi2652254",
+      "icon": "FaKaggle"
+    },
+      
+    {
+      "GitHub": "Follow me on Kaggle",
+      "url": "https://github.com/abhigyan631",
+      "icon": "FaGitHub"
+    }
+ 
+  ]
+}
